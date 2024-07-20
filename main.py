@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Welcome to the page")
 st.header("DEMO")
-st.subheader("dummy")
+st.subheader("admin dron")
 
 name = st.text_input ("Enter Your Name : ")
 fname = st.text_input("Enter Your Father Name : ")
